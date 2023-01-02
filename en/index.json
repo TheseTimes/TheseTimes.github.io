@@ -1,0 +1,9 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "These Difficult Times",
+    "description": "Recent content on These Difficult Times",
+    "home_page_url" : "/",
+    "feed_url" : "/en/index.json",
+    "items" : [
+    ]
+}
