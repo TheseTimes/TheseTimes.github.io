@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/daniell-mesquita/</loc>
+    <loc>/authors/daniella-mesquita/</loc>
   </url><url>
     <loc>/authors/</loc>
     <xhtml:link
@@ -15,6 +15,8 @@
                 hreflang="pt"
                 href="/authors/"
                 />
+  </url><url>
+    <loc>/authors/</loc>
   </url><url>
     <loc>/categories/</loc>
     <xhtml:link
